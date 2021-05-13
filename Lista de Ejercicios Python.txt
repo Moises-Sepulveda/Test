@@ -1,0 +1,512 @@
+Lista de ejercicios en Python
+
+1. Hola mundo en Python
+2. Hallar la superficie de un cuadrado conociendo el valor de un lado.
+3. Realizar la carga de dos números enteros por teclado e imprimir su suma y su producto.
+4. Realizar la carga del precio de un producto y la cantidad a llevar. Mostrar cuanto se debe pagar (se ingresa un valor entero en el precio del producto)
+5. Realizar la carga del lado de un cuadrado, mostrar por pantalla el perímetro del mismo (El perímetro de un cuadrado se calcula multiplicando el valor del lado por cuatro)
+6. Escribir un programa en el cual se ingresen cuatro números, calcular e informar la suma de los dos primeros y el producto del tercero y el cuarto.
+
+7. Realizar un programa que lea cuatro valores numéricos e informar su suma y promedio.
+
+8. Calcular el sueldo mensual de un operario conociendo la cantidad de horas trabajadas y el valor por hora.
+
+9. Ingresar el sueldo de una persona, si supera los 3000 dolares mostrar un mensaje en pantalla indicando que debe abonar impuestos.
+
+10. Realizar un programa que solicite ingresar dos números distintos y muestre por pantalla el mayor de ellos.
+
+11. Realizar un programa que solicite la carga por teclado de dos números, si el primero es mayor al segundo informar su suma y diferencia, en caso contrario informar el producto y la división del primero respecto al segundo.
+
+12. Se ingresan tres notas de un alumno, si el promedio es mayor o igual a siete mostrar un mensaje "Promocionado".
+
+13. Se ingresa por teclado un número positivo de uno o dos dígitos (1..99) mostrar un mensaje indicando si el número tiene uno o dos dígitos.
+(Tener en cuenta que condición debe cumplirse para tener dos dígitos un número entero)
+
+14. Confeccionar un programa que pida por teclado tres notas de un alumno, calcule el promedio e imprima alguno de estos mensajes:
+Si el promedio es >=7 mostrar "Promocionado".
+Si el promedio es >=4 y <7 mostrar "Regular".
+Si el promedio es <4 mostrar "Reprobado".
+
+15. Se cargan por teclado tres números distintos. Mostrar por pantalla el mayor de ellos.
+
+16. Se ingresa por teclado un valor entero, mostrar una leyenda que indique si el número es positivo, negativo o nulo (es decir cero).
+
+17. Confeccionar un programa que permita cargar un número entero positivo de hasta tres cifras y muestre un mensaje indicando si tiene 1, 2, o 3 cifras. Mostrar un mensaje de error si el número de cifras es mayor.
+
+18. Un postulante a un empleo, realiza un test de capacitación, se obtuvo la siguiente información: cantidad total de preguntas que se le realizaron y la cantidad de preguntas que contestó correctamente. Se pide confeccionar un programa que ingrese los dos datos por teclado e informe el nivel del mismo según el porcentaje de respuestas correctas que ha obtenido, y sabiendo que:
+	Nivel máximo:	Porcentaje>=90%.
+	Nivel medio:	Porcentaje>=75% y <90%.
+	Nivel regular:	Porcentaje>=50% y <75%.
+	Fuera de nivel:	Porcentaje<50%.
+
+19. Confeccionar un programa que lea por teclado tres números enteros distintos y nos muestre el mayor.
+
+20. Se carga una fecha (día, mes y año) por teclado. Mostrar un mensaje si corresponde al primer trimestre del año (enero, febrero o marzo) Cargar por teclado el valor numérico del día, mes y año. 
+Ejemplo: dia:10 mes:2 año:2018
+
+21. Realizar un programa que pida cargar una fecha cualquiera, luego verificar si dicha fecha corresponde a Navidad.
+
+22. Se ingresan tres valores por teclado, si todos son iguales se imprime la suma del primero con el segundo y a este resultado se lo multiplica por el tercero.
+
+23. Se ingresan por teclado tres números, si todos los valores ingresados son menores a 10, imprimir en pantalla la leyenda "Todos los números son menores a diez".
+
+24. Se ingresan por teclado tres números, si al menos uno de los valores ingresados es menor a 10, imprimir en pantalla la leyenda "Alguno de los números es menor a diez".
+
+25. Escribir un programa que pida ingresar la coordenada de un punto en el plano, es decir dos valores enteros x e y (distintos a cero).
+Posteriormente imprimir en pantalla en que cuadrante se ubica dicho punto. (1º Cuadrante si x > 0 Y y > 0 , 2º Cuadrante: x < 0 Y y > 0, etc.)
+
+26. De un operario se conoce su sueldo y los años de antigüedad. Se pide confeccionar un programa que lea los datos de entrada e informe:
+a) Si el sueldo es inferior a 500 y su antigüedad es igual o superior a 10 años, otorgarle un aumento del 20 %, mostrar el sueldo a pagar.
+b)Si el sueldo es inferior a 500 pero su antigüedad es menor a 10 años, otorgarle un aumento de 5 %.
+c) Si el sueldo es mayor o igual a 500 mostrar el sueldo en pantalla sin cambios.
+
+27. Escribir un programa en el cual: dada una lista de tres valores numéricos distintos se calcule e informe su rango de variación (debe mostrar el mayor y el menor de ellos)
+
+28. Realizar un programa que imprima en pantalla los números del 1 al 100.
+
+29. Codificar un programa que solicite la carga de un valor positivo y nos muestre desde 1 hasta el valor ingresado de uno en uno.
+Ejemplo: Si ingresamos 30 se debe mostrar en pantalla los números del 1 al 30.
+
+30. Desarrollar un programa que permita la carga de 10 valores por teclado y nos muestre posteriormente la suma de los valores ingresados y su promedio.
+
+31. Una planta que fabrica perfiles de hierro posee un lote de n piezas. Confeccionar un programa que pida ingresar por teclado la cantidad de piezas a procesar y luego ingrese la longitud de cada perfil; sabiendo que la pieza cuya longitud esté comprendida en el rango de 1.20 y 1.30 son aptas. Imprimir por pantalla la cantidad de piezas aptas que hay en el lote.
+
+32. Escribir un programa que solicite ingresar 10 notas de alumnos y nos informe cuántos tienen notas mayores o iguales a 7 y cuántos menores.
+
+33. Se ingresan un conjunto de n alturas de personas por teclado. Mostrar la altura promedio de las personas.
+
+34. En una empresa trabajan n empleados cuyos sueldos oscilan entre $100 y $500, realizar un programa que lea los sueldos que cobra cada empleado e informe cuántos empleados cobran entre $100 y $300 y cuántos cobran más de $300. Además el programa deberá informar el importe que gasta la empresa en sueldos al personal.
+
+35. Realizar un programa que imprima 25 términos de la serie 11 - 22 - 33 - 44, etc. (No se ingresan valores por teclado)
+
+36. Mostrar los múltiplos de 8 hasta el valor 500. Debe aparecer en pantalla 8 - 16 - 24, etc.
+
+37. Realizar un programa que permita cargar dos listas de 15 valores cada una. Informar con un mensaje cual de las dos listas tiene un valor acumulado mayor (mensajes "Lista 1 mayor", "Lista 2 mayor", "Listas iguales"). Tener en cuenta que puede haber dos o más estructuras repetitivas en un algoritmo.
+
+38. Desarrollar un programa que permita cargar n números enteros y luego nos informe cuántos valores fueron pares y cuántos impares.
+Emplear el operador “%” en la condición de la estructura condicional (este operador retorna el resto de la división de dos valores, por ejemplo 11%2 retorna un 1):
+	if valor%2==0:  
+
+39. Realizar un programa que imprima en pantalla los números del 0 al 100. Este problema lo podemos resolver perfectamente con el ciclo while pero en esta situación lo resolveremos empleando el for.
+
+40. Realizar un programa que imprima en pantalla los números del 0 al 100. Este problema lo podemos resolver perfectamente con el ciclo while.
+
+41. Realizar un programa que imprima en pantalla los números del 20 al 30.
+
+42. Imprimir todos los números impares que hay entre 1 y 100.
+
+43. Desarrollar un programa que permita la carga de 10 valores por teclado y nos muestre posteriormente la suma de los valores ingresados y su promedio. Este problema ya lo desarrollamos, lo resolveremos empleando la estructura for para repetir la carga de los diez valores por teclado.
+
+44. Escribir un programa que solicite por teclado 10 notas de alumnos y nos informe cuántos tienen notas mayores o iguales a 7 y cuántos menores.
+
+45. Escribir un programa que lea 10 números enteros y luego muestre cuántos valores ingresados fueron múltiplos de 3 y cuántos de 5. Debemos tener en cuenta que hay números que son múltiplos de 3 y de 5 a la vez.
+
+46. Codificar un programa que lea n números enteros y calcule la cantidad de valores mayores o iguales a 1000 (n se carga por teclado)
+Este tipo de problemas también se puede resolver empleando la estructura repetitiva for. Lo primero que se hace es cargar una variable que indique la cantidad de valores a ingresar. Dicha variable se carga antes de entrar a la estructura repetitiva for.
+
+47. Confeccionar un programa que lea n pares de datos, cada par de datos corresponde a la medida de la base y la altura de un triángulo. El programa deberá informar:
+a) De cada triángulo la medida de su base, su altura y su superficie.
+b) La cantidad de triángulos cuya superficie es mayor a 12.
+
+48. Desarrollar un programa que solicite la carga de 10 números e imprima la suma de los últimos 5 valores ingresados.
+
+49. Desarrollar un programa que muestre la tabla de multiplicar del 5 (del 5 al 50)
+
+50. Confeccionar un programa que permita ingresar un valor del 1 al 10 y nos muestre la tabla de multiplicar del mismo (los primeros 12 términos)
+Ejemplo: Si ingreso 3 deberá aparecer en pantalla los valores 3, 6, 9, hasta el 36.
+
+51. Realizar un programa que lea los lados de n triángulos, e informar:
+a) De cada uno de ellos, qué tipo de triángulo es: equilátero (tres lados iguales), isósceles (dos lados iguales), o escaleno (ningún lado igual)
+b) Cantidad de triángulos de cada tipo.
+
+52. Escribir un programa que pida ingresar coordenadas (x,y) que representan puntos en el plano.
+Informar cuántos puntos se han ingresado en el primer, segundo, tercer y cuarto cuadrante. Al comenzar el programa se pide que se ingrese la cantidad de puntos a procesar.
+
+53. Se realiza la carga de 10 valores enteros por teclado. Se desea conocer:
+a) La cantidad de valores ingresados negativos.
+b) La cantidad de valores ingresados positivos.
+c) La cantidad de múltiplos de 15.
+d) El valor acumulado de los números ingresados que son pares.
+
+54. Se cuenta con la siguiente información:
+Las edades de 5 estudiantes del turno mañana.
+Las edades de 6 estudiantes del turno tarde.
+Las edades de 11 estudiantes del turno noche.
+Las edades de cada estudiante deben ingresarse por teclado.
+a) Obtener el promedio de las edades de cada turno (tres promedios)
+b) Imprimir dichos promedios (promedio de cada turno)
+c) Mostrar por pantalla un mensaje que indique cual de los tres turnos tiene un promedio de edades mayor.
+
+55. Mostrar la tabla de multiplicar del 5 empleando primero el while y seguidamente de nuevo empleando el for.
+
+56. Realizar un programa que solicite la carga de valores enteros por teclado y los sume. Finalizar la carga al ingresar el valor -1. Dejar como comentario dentro del código fuente el enunciado del problema.
+
+57. Confeccionar un programa que solicite la carga de 10 valores reales por teclado. Mostrar al final su suma. Definir varias líneas de comentarios indicando el nombre del programa, el programador y la fecha de la última modificación. Utilizar el caracter # para los comentarios.
+
+58. Realizar la carga por teclado del nombre, edad y altura de dos personas. Mostrar por pantalla el nombre de la persona con mayor altura.
+
+59. Realizar la carga de dos nombres por teclado. Mostrar cual de los dos es mayor alfabéticamente o si son iguales.
+
+60. Realizar la carga de enteros por teclado. Preguntar después que ingresa el valor si desea cargar otro valor debiendo el operador ingresar la cadena 'si' o 'no' por teclado.
+
+61. Realizar la carga de dos nombres de personas distintos. Mostrar por pantalla luego ordenados en forma alfabética.
+
+62. Realizar la carga del nombre de una persona y luego mostrar el primer caracter del nombre y la cantidad de letras que lo componen.
+
+63. Solicitar la carga del nombre de una persona en minúsculas. Mostrar un mensaje si comienza con vocal dicho nombre.
+
+64. Ingresar un mail por teclado. Verificar si el string ingresado contiene solo un caracter "@".
+
+65. Inicializar un string con la cadena "mAriA" luego llamar a sus métodos upper(), lower() y capitalize(), guardar los datos retornados en otros string y mostrarlos por pantalla.
+
+66. Cargar una oración por teclado. Mostrar luego cuantos espacios en blanco se ingresaron. Tener en cuenta que un espacio en blanco es igual a
+" ", en cambio una cadena vacía es ""
+
+67. Ingresar una oración que pueden tener letras tanto en mayúsculas como minúsculas. Contar la cantidad de vocales. Crear un segundo string con toda la oración en minúsculas para que sea más fácil disponer la condición que verifica que es una vocal.
+
+68. Solicitar el ingreso de una clave por teclado y almacenarla en una cadena de caracteres. Controlar que el string ingresado tenga entre 10 y 20 caracteres para que sea válido, en caso contrario mostrar un mensaje de error.
+
+69. Definir una lista que almacene 5 enteros. Sumar todos sus elementos y mostrar dicha suma.
+
+70. Definir una lista por asignación que almacene los nombres de los primeros cuatro meses de año. Mostrar el primer y último elemento de la lista solamente.
+
+71. Definir una lista por asignación que almacene en la primer componente el nombre de un alumno y en las dos siguientes sus notas. Imprimir luego el nombre y el promedio de las dos notas.
+
+72. Definir por asignación una lista con 8 elementos enteros. Contar cuantos de dichos valores almacenan un valor superior a 100.
+
+73. Definir una lista por asignación con 5 enteros. Mostrar por pantalla solo los elementos con valor iguales o superiores a 7.
+
+74. Definir una lista que almacene por asignación los nombres de 5 personas. Contar cuantos de esos nombres tienen 5 o más caracteres.
+
+75. Definir una lista vacía y luego solicitar la carga de 5 enteros por teclado y añadirlos a la lista. Imprimir la lista generada.
+
+76. Realizar la carga de valores enteros por teclado, almacenarlos en una lista. Finalizar la carga de enteros al ingresar el cero. Mostrar finalmente el tamaño de la lista.
+
+77. Almacenar en una lista los sueldos (valores float) de 5 operarios. Imprimir la lista y el promedio de sueldos.
+
+78. Cargar por teclado y almacenar en una lista las alturas de 5 personas (valores float)
+Obtener el promedio de las mismas. Contar cuántas personas son más altas que el promedio y cuántas más bajas.
+
+79. Una empresa tiene dos turnos (mañana y tarde) en los que trabajan 8 empleados (4 por la mañana y 4 por la tarde) Confeccionar un programa que permita almacenar los sueldos de los empleados agrupados en dos listas.
+Imprimir las dos listas de sueldos.
+
+80. Crear y cargar una lista con 5 enteros. Implementar un algoritmo que identifique el mayor valor de la lista.
+
+81. Crear y cargar una lista con 5 enteros por teclado. Implementar un algoritmo que identifique el menor valor de la lista y la posición donde se encuentra.
+
+82. Ingresar por teclado los nombres de 5 personas y almacenarlos en una lista. Mostrar el nombre de persona menor en orden alfabético.
+
+83. Cargar una lista con 5 elementos enteros. Imprimir el mayor y un mensaje si se repite dentro de la lista (es decir si dicho valor se encuentra en 2 o más posiciones en la lista)
+
+84. Desarrollar un programa que permita cargar 5 nombres de personas y sus edades respectivas. Luego de realizar la carga por teclado de todos los datos imprimir los nombres de las personas mayores de edad (mayores o iguales a 18 años)
+
+85. Crear y cargar dos listas con los nombres de 5 productos en una y sus respectivos precios en otra. Definir dos listas paralelas. Mostrar cuantos productos tienen un precio mayor al primer producto ingresado.
+
+86. En un curso de 4 alumnos se registraron las notas de sus exámenes y se deben procesar de acuerdo a lo siguiente:
+a) Ingresar nombre y nota de cada alumno (almacenar los datos en dos listas paralelas)
+b) Realizar un listado que muestre los nombres, notas y condición del alumno. En la condición, colocar "Muy Bueno" si la nota es mayor o igual a 8, "Bueno" si la nota está entre 4 y 7, y colocar "Insuficiente" si la nota es inferior a 4.
+c) Imprimir cuantos alumnos tienen la leyenda “Muy Bueno”.
+
+87. Realizar un programa que pida la carga de dos listas numéricas enteras de 4 elementos cada una. Generar una tercer lista que surja de la suma de los elementos de la misma posición de cada lista. Mostrar esta tercer lista.
+
+88. Se debe crear y cargar una lista donde almacenar 5 sueldos. Desplazar el valor mayor de la lista a la última posición.
+
+La primera aproximación para llegar en el próximo problema al ordenamiento completo de una lista tiene por objetivo analizar los intercambios de elementos dentro de la lista y dejar el mayor en la última posición.
+
+El algoritmo consiste en comparar si la primera componente es mayor a la segunda, en caso que la condición sea verdadera, intercambiamos los contenidos de las componentes.
+
+Vamos a suponer que se ingresan los siguientes valores por teclado:
+
+1200
+750
+820
+550
+490
+En este ejemplo: ¿es 1200 mayor a 750? La respuesta es verdadera, por lo tanto intercambiamos el contenido de la componente 0 con el de la componente 1.
+Luego comparamos el contenido de la componente 1 con el de la componente 2: ¿Es 1200 mayor a 820?
+La respuesta es verdadera entonces intercambiamos.
+Si hay 5 componentes hay que hacer 4 comparaciones, por eso el for se repite 4 veces.
+Generalizando: si la lista tiene N componentes hay que hacer N-1 comparaciones.
+
+
+
+89. Se debe crear y cargar una lista donde almacenar 5 sueldos. Ordenar de menor a mayor la lista.
+
+Ahora bien como vimos en el problema anterior con los 4 elementos que nos quedan podemos hacer el mismo proceso visto anteriormente, con lo cual quedará ordenado otro elemento de de la lista. Este proceso lo repetiremos hasta que quede ordenado por completo la lista.
+
+Como debemos repetir el mismo algoritmo podemos englobar todo el bloque en otra estructura repetitiva.
+
+Realicemos una prueba del siguiente algoritmo:
+
+Cuando k = 0
+		x = 0		x = 1		x = 2		x = 3
+		750		750		750		750
+		1200		820		820		820
+		820		1200		550		550
+		550		550		1200		490
+		490		490		490		1200
+		
+Cuando k = 1
+		x = 0		x = 1		x = 2		x = 3
+		750		750		750		750	
+		820		550		550		550
+		550		820		490		490
+		490		490		820		820
+		1200		1200		1200		1200
+
+Cuando k = 2
+		x = 0		x = 1		x  = 2		x = 3
+		550		550		550		550
+		750		490		490		490
+		490		750		750		750
+		820		820		820		820
+		1200		1200		1200		1200
+
+
+Cuando k = 3
+		x = 0		x = 1		x  = 2		x = 3
+		490		490		490		490
+		550		550		550		550
+		750		750		750		750
+		820		820		820		820
+		1200		1200		1200		1200
+
+
+90. Crear una lista y almacenar los nombres de 5 países. Ordenar alfabéticamente la lista e imprimirla.
+
+91. Solicitar por teclado la cantidad de empleados que tiene la empresa. Crear y cargar una lista con todos los sueldos de dichos empleados. Imprimir la lista de sueldos ordenamos de menor a mayor.
+
+92. Cargar una lista con 5 elementos enteros. Ordenarla de menor a mayor y mostrarla por pantalla, luego ordenar de mayor a menor e imprimir nuevamente.
+
+93. Confeccionar un programa que permita cargar los nombres de 5 alumnos y sus notas respectivas. Luego ordenar las notas de mayor a menor. Imprimir las notas y los nombres de los alumnos.
+
+Debe quedar claro que cuando intercambiamos las notas para dejarlas ordenadas de mayor a menor debemos intercambiar los nombres para que las listas continúen paralelas (es decir que en los mismos subíndices de cada lista continúe la información relacionada)
+
+94. Crear y cargar en un lista los nombres de 5 países y en otra lista paralela la cantidad de habitantes del mismo. Ordenar alfabéticamente e imprimir los resultados. Por último ordenar con respecto a la cantidad de habitantes (de mayor a menor) e imprimir nuevamente.
+
+95. Crear una lista por asignación. La lista tiene que tener cuatro elementos. Cada elemento debe ser una lista de 3 enteros.
+Imprimir sus elementos accediendo de diferentes modos.
+
+96. Crear una lista por asignación. La lista tiene que tener 2 elementos. Cada elemento debe ser una lista de 5 enteros.
+Calcular y mostrar la suma de cada lista contenida en la lista principal.
+
+97. Crear una lista por asignación. La lista tiene que tener 5 elementos. Cada elemento debe ser una lista, la primera lista tiene que tener un elemento, la segunda dos elementos, la tercera tres elementos y así sucesivamente.
+Sumar todos los valores de las listas.
+
+98. Se tiene la siguiente lista:
+lista=[[100,7,85,8], [4,8,56,25], [67,89,23,1], [78,56]]
+Imprimir la lista. Luego fijar con el valor cero todos los elementos mayores a 50 del primer elemento de "lista".
+Volver a imprimir la lista.
+
+99. Se tiene la siguiente lista:
+lista=[[4,12,5,66], [14,6,25], [3,4,5,67,89,23,1], [78,56]]
+Imprimir la lista. Luego fijar con el valor cero todos los elementos mayores a 10 contenidos en todos los elementos de la variable "lista".
+Volver a imprimir la lista.
+
+100. Crear una lista por asignación con la cantidad de elementos de tipo lista que usted desee. Luego imprimir el último elemento de la lista principal.
+
+101. Crear y cargar una lista con los nombres de tres alumnos. Cada alumno tiene dos notas, almacenar las notas en una lista paralela. Cada componente de la lista paralela debe ser también una lista con las dos notas. Imprimir luego cada nombre y sus dos notas.
+
+Si cargáramos los datos por asignación sería algo parecido a esto:
+
+alumnos=["juan", "ana", "luis"]
+notas=[[10,8], [6,5], [2,8]]
+En la componente 0 de la lista alumnos tenemos almacenado el nombre "juan" y como son listas paralelas en la componente 0 de la lista notas tenemos almacenado una lista con las dos notas 10 y 8.
+
+Nuestro objetivo como lo pide el problema es cargar los datos por teclado.
+
+102. Se tiene que cargar la siguiente información:
+· Nombres de 3 empleados
+· Ingresos en concepto de sueldo, cobrado por cada empleado, en los últimos 3 meses.
+Confeccionar el programa para:
+
+a) Realizar la carga de los nombres de empleados y los tres sueldos por cada empleado.
+b) Generar una lista que contenga el ingreso acumulado en sueldos en los últimos 3 meses para cada empleado.
+c) Mostrar por pantalla el total pagado en sueldos a cada empleado en los últimos 3 meses
+d) Obtener el nombre del empleado que tuvo el mayor ingreso acumulado
+
+En este problema definiremos tres listas:
+
+Una lista para almacenar los nombres de los empleados, por ejemplo si lo cargamos por asignación:
+nombres=["juan", "ana", "luis"]
+Una lista paralela a la anterior para almacenar los sueldos en los últimos tres meses por cada empleado:
+sueldos=[[5000,5100,5000], [7000,6500,6000], [2500,2500,2500]]
+Otra lista paralela donde almacenamos el total de sueldos cobrados por cada empleado que resulta de sumar los tres sueldos de cada empleado contenidos en la lista sueldos:
+
+totalsueldos=[15100, 19500, 7500]
+Es importante notar que estos datos no los cargaremos por asignación sino los cargaremos por teclado a las dos primeras listas y la tercera la generaremos extrayendo los datos de la lista sueldos.
+
+
+ 
+103. Solicitar por teclado dos enteros. El primer valor indica la cantidad de elementos que crearemos en la lista. El segundo valor indica la cantidad de elementos que tendrá cada una de las listas internas a la lista principal.
+Mostrar la lista y la suma de todos sus elementos.
+
+Por ejemplo si el operador carga un 2 y un 4 significa que debemos crear una lista similar a:
+
+lista=[[1,1,1,1], [1,1,1,1]]
+
+
+104. Definir dos listas de 3 elementos.
+La primer lista cada elemento es una sublista con el nombre del padre y la madre de una familia.
+La segunda lista está constituida por listas con los nombres de los hijos de cada familia. Puede haber familias sin hijos.
+Imprimir los nombres del padre, la madre y sus hijos.
+También imprimir solo el nombre del padre y la cantidad de hijos que tiene dicho padre.
+
+Un ejemplo si se define por asignación:
+
+padres=[["juan","ana"], ["carlos","maria"], ["pedro","laura"]]
+hijos=[["marcos","alberto","silvia"], [], ["oscar"]]
+Como son listas paralelas podemos decir que la familia cuyos padres son "juan" y "ana" tiene tres hijos llamados "marcos", "alberto", "silvia". La segunda familia no tiene hijos y la tercera tiene solo uno.
+
+105. Se desea saber la temperatura media trimestral de cuatro paises. Para ello se tiene como dato las temperaturas medias mensuales de dichos paises.
+Se debe ingresar el nombre del país y seguidamente las tres temperaturas medias mensuales.
+Seleccionar las estructuras de datos adecuadas para el almacenamiento de los datos en memoria.
+a - Cargar por teclado los nombres de los paises y las temperaturas medias mensuales.
+b - Imprimir los nombres de las paises y las temperaturas medias mensuales de las mismas.
+c - Calcular la temperatura media trimestral de cada país.
+c - Imprimr los nombres de los paises y las temperaturas medias trimestrales.
+b - Imprimir el nombre del pais con la temperatura media trimestral mayor.
+
+106. Definir una lista y almacenar los nombres de 3 empleados.
+Por otro lado definir otra lista y almacenar en cada elemento una sublista con los números de días del mes que el empleado faltó.
+Imprimir los nombres de empleados y los días que faltó.
+Mostrar los empleados con la cantidad de inasistencias.
+Finalmente mostrar el nombre o los nombres de empleados que faltaron menos días.
+
+107. Desarrollar un programa que cree una lista de 50 elementos. El primer elemento es una lista con un elemento entero, el segundo elemento es una lista de dos elementos etc.
+La lista debería tener esta estructura y asignarle esos valores a medida que se crean los elementos:
+[[1], [1,2], [1,2,3], [1,2,3,4], [1,2,3,4,5], etc....]
+
+108. Crear una lista por asignación con 5 enteros. Eliminar el primero, el tercero y el último de la lista.
+
+109. Crear una lista y almacenar 10 enteros pedidos por teclado. Eliminar todos los elementos que sean iguales al número entero 5.
+
+110. Crear dos listas paralelas. En la primera ingresar los nombres de empleados y en la segunda los sueldos de cada empleado.
+Ingresar por teclado cuando inicia el programa la cantidad de empleados de la empresa.
+Borrar luego todos los empleados que tienen un sueldo mayor a 10000 (tanto el sueldo como su nombre)
+
+111. Crear una lista de 5 enteros y cargarlos por teclado. Borrar los elementos mayores o iguales a 10 y generar una nueva lista con dichos valores.
+
+112. Confeccionar una aplicación que muestre una presentación en pantalla del programa. Solicite la carga de dos valores y nos muestre la suma. Mostrar finalmente un mensaje de despedida del programa.
+Implementar estas actividades en tres funciones.
+
+113. Confeccionar una aplicación que solicite la carga de dos valores enteros y muestre su suma.
+Repetir la carga e impresion de la suma 5 veces.
+Mostrar una línea separadora después de cada vez que cargamos dos valores y su suma.
+
+114. Desarrollar un programa con dos funciones. La primer solicite el ingreso de un entero y muestre el cuadrado de dicho valor. La segunda que solicite la carga de dos valores y muestre el producto de los mismos. LLamar desde el bloque del programa principal a ambas funciones.
+
+115. Desarrollar un programa que solicite la carga de tres valores y muestre el menor. Desde el bloque principal del programa llamar 2 veces a dicha función (sin utilizar una estructura repetitiva)
+
+===================================================
+FUNCIONES: PARAMETROS
+===================================================
+
+116. Confeccionar una aplicación que muestre una presentación en pantalla del programa. Solicite la carga de dos valores y nos muestre la suma. Mostrar finalmente un mensaje de despedida del programa. El ejercicio debe realizarse con Funciones
+
+117. Confeccionar una función que reciba tres enteros y nos muestre el mayor de ellos. La carga de los valores hacerlo por teclado.
+
+118. Desarrollar un programa que permita ingresar el lado de un cuadrado. Luego preguntar si quiere calcular y mostrar su perímetro o su superficie.
+
+119. Desarrollar una funcion que reciba un string como parametro y nos muestre la cantidad de vocales. Llamarla desde el bloque principal del programa 3 veces con string distintos.
+
+120. Confeccionar una función que reciba tres enteros y los muestre ordenados de menor a mayor. En otra función solicitar la carga de 3 enteros por teclado y proceder a llamar a la primer función definida.
+
+
+===================================================
+FUNCIONES: RETORNO DE DATOS
+===================================================
+
+120. Confeccionar una función que le enviemos como parámetro el valor del lado de un cuadrado y nos retorne su superficie.
+
+121. Confeccionar una función que le enviemos como parámetros dos enteros y nos retorne el mayor.
+
+122. Confeccionar una función que le enviemos como parámetro un string y nos retorne la cantidad de caracteres que tiene. En el bloque principal solicitar la carga de dos nombres por teclado y llamar a la función dos veces. Imprimir en el bloque principal cual de las dos palabras tiene más caracteres.
+
+123. Elaborar una función que reciba tres enteros y nos retorne el valor promedio de los mismos.
+
+124. Elaborar una función que nos retorne el perímetro de un cuadrado pasando como parámetros el valor de un lado.
+
+125. Confeccionar una función que calcule la superficie de un rectángulo y la retorne, la función recibe como parámetros los valores de dos de sus lados:
+def retornar_superficie(lado1,lado2):
+En el bloque principal del programa cargar los lados de dos rectángulos y luego mostrar cual de los dos tiene una superficie mayor.
+
+126. Plantear una función que reciba un string en mayúsculas o minúsculas y retorne la cantidad de letras 'a' o 'A'.
+
+===================================================
+FUNCIONES: PARAMETROS DE TIPO LISTA
+===================================================
+
+127. Definir por asignación una lista de enteros en el bloque principal del programa. Elaborar tres funciones, la primera recibe la lista y retorna la suma de todos sus elementos, la segunda recibe la lista y retorna el mayor valor y la última recibe la lista y retorna el menor.
+
+128. Crear y cargar por teclado en el bloque principal del programa una lista de 5 enteros. Implementar una función que imprima el mayor y el menor valor de la lista.
+
+129. Crear una lista de enteros por asignación. Definir una función que reciba una lista de enteros y un segundo parámetro de tipo entero. Dentro de la función mostrar cada elemento de la lista multiplicado por el valor entero enviado.
+lista=[3, 7, 8, 10, 2]
+multiplicar(lista,3)
+
+130. Desarrollar una función que reciba una lista de string y nos retorne el que tiene más caracteres. Si hay más de uno con dicha cantidad de caracteres debe retornar el que tiene un valor de componente más baja.
+En el bloque principal iniciamos por asignación la lista de string:
+palabras=["enero", "febrero", "marzo", "abril", "mayo", "junio"]
+print("Palabra con mas caracteres:",mascaracteres(palabras))
+
+131. Definir una lista de enteros por asignación en el bloque principal. Llamar a una función que reciba la lista y nos retorne el producto de todos sus elementos. Mostrar dicho producto en el bloque principal de nuestro programa.
+
+
+===================================================
+FUNCIONES: RETORNO DE UNA LISTA
+===================================================
+
+132. Confeccionar una función que cargue por teclado una lista de 5 enteros y la retorne. Una segunda función debe recibir una lista y mostrar todos los valores mayores a 10. Desde el bloque principal del programa llamar a ambas funciones.
+
+133. Confeccionar una función que cargue por teclado una lista de 5 enteros y la retorne. Una segunda función debe recibir una lista y retornar el mayor y el menor valor de la lista. Desde el bloque principal del programa llamar a ambas funciones e imprimir el mayor y el menor de la lista.
+
+134. Desarrollar un programa que permita cargar 5 nombres de personas y sus edades respectivas. Luego de realizar la carga por teclado de todos los datos imprimir los nombres de las personas mayores de edad (mayores o iguales a 18 años)
+Imprimir la edad promedio de las personas.
+
+135. En una empresa se almacenaron los sueldos de 10 personas.
+Desarrollar las siguientes funciones y llamarlas desde el bloque principal:
+1) Carga de los sueldos en una lista.
+2) Impresión de todos los sueldos.
+3) Cuántos tienen un sueldo superior a $4000.
+3) Retornar el promedio de los sueldos.
+4) Mostrar todos los sueldos que están por debajo del promedio.
+
+136. Desarrollar una aplicación que permita ingresar por teclado los nombres de 5 artículos y sus precios.
+Definir las siguientes funciones:
+1) Cargar los nombres de articulos y sus precios.
+2) Imprimir los nombres y precios.
+3) Imprimir el nombre de artículo con un precio mayor
+4) Ingresar por teclado un importe y luego mostrar todos los artículos con un precio menor igual al valor ingresado.
+
+137. Confeccionar un programa que permita:
+1) Cargar una lista de 10 elementos enteros.
+2) Generar dos listas a partir de la primera. En una guardar los valores positivos y en otra los negativos.
+3) Imprimir las dos listas generadas.
+
+===================================================
+FUNCIONES: CON PARAMETROS CON VALOR POR DEFECTO
+===================================================
+
+138. Confeccionar una función que reciba un string como parámetro y en forma opcional un segundo string con un caracter. La función debe mostrar el string subrayado con el caracter que indica el segundo parámetro
+
+139. Confeccionar una función que reciba entre 2 y 5 enteros. La misma nos debe retornar la suma de dichos valores. Debe tener tres parámetros por defecto.
+
+===================================================
+FUNCIONES: LLAMADA A LA FUNCIÓN CON ARGUMENTOS NOMBRADOS
+===================================================
+
+140. Confeccionar una función que reciba el nombre de un operario, el pago por hora y la cantidad de horas trabajadas. Debe mostrar su sueldo y el nombre. Hacer la llamada de la función mediante argumentos nombrados.
+
+141. Cargar una lista de 10 enteros, luego mostrarlos por pantalla a cada elemento separados por una coma.
+
+142. Elaborar una función que muestre la tabla de multiplicar del valor que le enviemos como parámetro. Definir un segundo parámetro llamado termino que por defecto almacene el valor 10. Se deben mostrar tantos términos de la tabla de multiplicar como lo indica el segundo parámetro.
+Llamar a la función desde el bloque principal de nuestro programa con argumentos nombrados.
+
+===================================================
+FUNCIONES: CON CANTIDAD VARIABLE DE PARÁMETROS
+===================================================
+
+143. Confeccionar una función que reciba entre 2 y n (siendo n = 2,3,4,5,6 etc.) valores enteros, retornar la suma de dichos parámetros.
+
+144. Confeccionar una función que reciba una serie de edades y me retorne la cantidad que son mayores o iguales a 18 (como mínimo se envía un entero a la función)

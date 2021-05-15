@@ -8,3 +8,5 @@ NOTA: El mandato de la mayoría de los ejercicios que he realizado los he encont
 2-Sumadora.py: Este programa se encarga recibir dos valores por teclado y mostrar la suma de estos.
 
 3-SuperficieCuadrado.py: Este programa recibe por teclado la base de un cuadrado, para luego devolver su superficie.
+
+4-ProductoPrecio.py: Este programa recibe por teclado la cantidad de un producto y su precio, y devuelve cuando debe pagarse.
